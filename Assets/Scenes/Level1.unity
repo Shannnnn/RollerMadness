@@ -765,6 +765,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 499443168}
     m_Modifications:
+    - target: {fileID: 2756934572237143475, guid: 263594336cd5e4b65a57a3ca039eb777, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 9f93f63d068b08c459038c40fce897d8, type: 2}
     - target: {fileID: 2756934572239394227, guid: 263594336cd5e4b65a57a3ca039eb777, type: 3}
       propertyPath: m_Name
       value: Bumper
